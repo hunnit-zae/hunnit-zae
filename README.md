@@ -5,14 +5,22 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a knack fo
 
 
 ### About Me
-🎓 Graduated from Rutgers University with a degree in Computer Science.  
+🎓 Graduated from Rutgers University with a degree in Computer Science. 
+
+
 🔍 Currently working as a software developer at A round ENT.  
+
+
 📫 How to reach me: to.geonjaebaek@gmail.com.  
 
 
 ### Technologies and Tools
 Languages: Python, R, Java, etc.
+
+
 Tools & Frameworks: scikit-learn, TensorFlow, Pandas, etc.
+
+
 Interests: Machine Learning, Data Analysis, AI, etc.
 
 
