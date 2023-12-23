@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a knack fo
 
 
 ### About Me
-🎓 Graduated from Rutgers University with a degree in Computer Science.
-🔍 Currently working as a software developer at A round ENT.
-📫 How to reach me: to.geonjaebaek@gmail.com.
+🎓 Graduated from Rutgers University with a degree in Computer Science.  
+🔍 Currently working as a software developer at A round ENT.  
+📫 How to reach me: to.geonjaebaek@gmail.com.  
 
 
 ### Technologies and Tools
