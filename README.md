@@ -15,13 +15,13 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a knack fo
 
 
 ### Technologies and Tools
-Languages: Python, R, Java, etc.
+Languages: Java, Python, C, Ocaml Verilog, MySQL, JavaScript, JavaFX 
 
 
-Tools & Frameworks: scikit-learn, TensorFlow, Pandas, etc.
+Tools & Frameworks: Django, Flask, Node.js, react native, scikit-learn, TensorFlow, Pandas
 
 
-Interests: Machine Learning, Data Analysis, AI, etc.
+Interests: Software develop, Machine Learning, Data Analysis, AI, etc.
 
 
 ### Let's Connect!
