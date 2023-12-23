@@ -14,7 +14,7 @@ Tools & Frameworks: scikit-learn, TensorFlow, Pandas, etc.
 Interests: Machine Learning, Data Analysis, AI, etc.
 
 ###Let's Connect!
-LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/geonjae-baek-3640b1202/)
+LinkedIn: https://www.linkedin.com/in/geonjae-baek-3640b1202
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunnit-zae&show_icons=true&theme=radical&bg_color=00000000)
 
