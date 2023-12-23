@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome)
+![header](https://capsule-render.vercel.app/api?type=waving&color=76819C&text=Welcome)
 
 ##Hello, I'm Geonjae Baek! 👋
 Welcome to my GitHub profile! I'm a passionate software engineer with a knack for developing innovative solutions and a keen interest in machine learning and data analysis.
