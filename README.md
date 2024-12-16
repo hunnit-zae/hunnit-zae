@@ -27,8 +27,6 @@ Interests: Software develop, Machine Learning, Data Analysis, AI, etc.
 ### Let's Connect!
 LinkedIn: https://www.linkedin.com/in/geonjae-baek-3640b1202
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunnit-zae&show_icons=true&theme=radical&bg_color=00000000&text_color=000000)
-
 <!Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
