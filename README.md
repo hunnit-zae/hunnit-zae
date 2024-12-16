@@ -8,7 +8,8 @@ Welcome to my GitHub! I'm a passionate software engineer with a knack for develo
 🎓 Graduated from Rutgers University with a degree in Computer Science. 
 
 
-🔍 Currently working as a software developer at A round ENT.  
+🔍 Working as a software developer at A round ENT. 2023/09 - 2023/12
+🔍 Working as a RPA/WMS devloper at LX Pantos 2024/12 - current
 
 
 📫 How to reach me: to.geonjaebaek@gmail.com.  
