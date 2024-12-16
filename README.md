@@ -9,6 +9,8 @@ Welcome to my GitHub! I'm a passionate software engineer with a knack for develo
 
 
 🔍 Working as a software developer at A round ENT. 2023/09 - 2023/12
+
+
 🔍 Working as a RPA/WMS devloper at LX Pantos 2024/12 - current
 
 
